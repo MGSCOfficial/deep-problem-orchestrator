@@ -1,4 +1,4 @@
-# Deep Problem Orchestrator (Motor ATLAS) 🏛️
+# Deep Problem Orchestrator 🏛️
 
 > **Metodología Quirúrgica Universal de Alta Fidelidad para Descomposición Anatómica de Problemas de Agentes de IA.**
 
