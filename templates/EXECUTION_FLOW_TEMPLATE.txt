@@ -1,0 +1,46 @@
+================================================================================
+ CUADRO DE MANDO Y HOJA DE RUTA DINAMICA (MILESTONE-DRIVEN)
+================================================================================
+Proyecto        : [NOMBRE_DEL_PROYECTO]
+Version / Tag   : [vX.Y - YYYY.MM.DD.R]
+Estado Global   : [EN PROGRESO / ESTABLE]
+Ultima Poda     : [YYYY-MM-DD HH:MM]
+================================================================================
+
+[ESTADO BASE CONSOLIDADO (HITOS PREVIOS COMPLETADOS)]
+--------------------------------------------------------------------------------
+- Hito 1 [Nombre]: Concluido y certificado con [herramienta nativa] (YYYY-MM-DD).
+- Hito N [Nombre]: Concluido y registrado en changelogs oficiales.
+*(Detalles atomicos podados para mantener la ventana de contexto liviana).*
+
+================================================================================
+ HITO ACTIVO: HITO [X] - [NOMBRE DEL HITO EN CURSO]
+================================================================================
+Objetivo del Hito: [Descripcion concisa del objetivo global de este hito]
+
+Checklist de Subfases Atomicas (Ventana Activa - Max 2 a 4):
+[ ] Subfase X.1: [Nombre de Subfase 1]
+    - Objetivo: [Que resuelve exactamente]
+    - Archivos: [Rutas de archivos a crear o modificar]
+    - Puerta de Calidad Nativa: [Comando oficial de test o validacion nativa]
+    - Criterio de Aceptacion: [100% PASS / Exit Code 0 / 0 errores]
+
+[ ] Subfase X.2: [Nombre de Subfase 2]
+    - Objetivo: [Que resuelve exactamente]
+    - Archivos: [Rutas de archivos a crear o modificar]
+    - Puerta de Calidad Nativa: [Comando oficial de test o validacion nativa]
+    - Criterio de Aceptacion: [100% PASS / Exit Code 0 / 0 errores]
+
+================================================================================
+ ROADMAP DE HITOS FUTUROS (ALTO NIVEL)
+================================================================================
+- [ ] Hito X+1: [Nombre conciso del siguiente hito planeado]
+- [ ] Hito X+2: [Nombre conciso del subsiguiente hito planeado]
+
+================================================================================
+ PROTOCOLO DE PODA Y MEMORIA ACTIVA:
+ - Al certificar el Hito X, podar sus subfases atomicas y resumirlas en 1 linea
+   en el bloque [ESTADO BASE CONSOLIDADO].
+ - Desplegar entonces las subfases del Hito X+1.
+ - Mantener este archivo permanentemente en <100 lineas.
+================================================================================

@@ -1,0 +1,20 @@
+================================================================================
+ BANCO TEMPORAL DE IDEAS Y PROPUESTAS TECNICAS (BACKLOG)
+================================================================================
+Proyecto        : [NOMBRE_DEL_PROYECTO]
+Proposito       : Almacen temporal de propuestas futuras para evitar su olvido.
+Regla Inmutable : Tan pronto como una idea sea implementada y certificada, DEBE
+                  SER ELIMINADA DE INMEDIATO de este archivo. Queda prohibido
+                  conservar entradas "completadas" (el historial va a Changelogs).
+================================================================================
+
+[IDEA-XXX] [TITULO CONCISO DE LA PROPUESTA]
+--------------------------------------------------------------------------------
+- Estado        : PENDIENTE
+- Origen        : [Auditoria de codigo, referencia externa, solicitud de usuario]
+- Componentes   : [Modulos, archivos o servicios impactados]
+- Descripcion   : [Explicacion tecnica concisa de la propuesta]
+- Justificacion : [Por que aporta valor y que beneficios tecnicos ofrece]
+- Dependencias  : [Requisitos previos necesarios antes de implementarla]
+
+================================================================================
