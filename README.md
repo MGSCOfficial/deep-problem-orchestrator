@@ -83,7 +83,6 @@ deep-problem-orchestrator/
 ### 1. Como Skill Global de Agente
 Copia la carpeta `deep-problem-orchestrator` dentro de tu directorio de skills agénticas:
 * **Windows**: `C:\Users\<USUARIO>\.agents\skills\deep-problem-orchestrator\`
-* **Linux / macOS**: `~/.agents/skills/deep-problem-orchestrator/`
 
 ### 2. Activación
 Invoca `/deep-problem-orchestrator` al inicio de cualquier refactorización profunda, desarrollo de nuevas características multi-módulo o corrección de defectos complejos.
